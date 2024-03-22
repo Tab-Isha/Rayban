@@ -104,7 +104,7 @@ html,body{
     top: 100%;
     left: 0;
     line-height: 1;
-    font-family: "League Gothic", sans-serif;
+    font-family: "kajiro";
     color: #fff;
     font-weight: 100;
     font-size: 7vw;
@@ -115,7 +115,7 @@ html,body{
     padding: .8vw 3vw;
     font-size: 3vw;
     margin-top: 2vw;
-    font-family: "League Gothic", sans-serif;
+    font-family: "kajiro";
 }
 
 #heroright{
